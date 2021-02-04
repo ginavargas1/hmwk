@@ -20,6 +20,7 @@ header h1 {
     font-size: 48px;
 }
 
+/* seo changed to span */
 span {
     color: #d9dcd6;
 }
@@ -60,6 +61,7 @@ figure {
     background-position: center;
 }
 
+/* only two class on html */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -70,7 +72,7 @@ figure {
     margin-left: 25px;
 }
 
-/* adding  */
+/* consildating and removing all of the class tag from article */
 section{
     width: 75%;
     display: inline-block;
@@ -118,6 +120,7 @@ section article img {
     max-height: 200px;
 }
 
+/* Consolidating */
 section article h2 {
     margin-bottom: 20px;
     font-size: 36px;
